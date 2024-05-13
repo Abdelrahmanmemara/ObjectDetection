@@ -21,7 +21,7 @@ This project uses the YOLOv8 model to detect specific furniture items (chair, co
 
 ## Setup Instructions
 
-1. **Clone the repository and navigate to the project directory:**
+1. **Clone the repository and navigate to the project directory or download the detect_furniture.py file:**
 
    ```sh
    git clone <repository-url>
