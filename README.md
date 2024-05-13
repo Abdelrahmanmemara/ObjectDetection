@@ -2,6 +2,7 @@
 This project uses the YOLOv8 model to detect specific furniture items (chair, couch, bed, dining table) in an image, and generates black and white masks for each detected item. The masks are then saved as PNG files in a specified directory.
 
 Table of Contents
+- Requirements
 Requirements
 Setup Instructions
 Usage Instructions
