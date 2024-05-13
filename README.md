@@ -125,14 +125,4 @@ This project uses the YOLOv8 model to detect specific furniture items (chair, co
 4. **Mask Generation and Saving:**
    - Loop through each detected object, generate a binary mask, and save it as a PNG file.
 
-## Evaluation Criteria
-
-- **Correctness and Efficiency:**
-  - The solution should accurately detect the specified furniture items and generate corresponding masks.
-  - The code should be optimized for performance.
-
-- **Code Quality:**
-  - The code should be well-structured, readable, and follow best practices.
-  - Clear comments and documentation should be provided to explain the approach and usage.
-
 By following these instructions, you can set up the environment, run the detection script, and save the masks for the specified furniture items in the image.
